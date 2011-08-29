@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hbase-sharp-lib", "hbase-sharp-lib\hbase-sharp-lib.csproj", "{CEBC603C-9904-42EC-B85C-E4108AC11ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example", "example\example.csproj", "{90DDEC63-031D-455C-850B-70C34DE8B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBC603C-9904-42EC-B85C-E4108AC11ABA}.Debug|x86.ActiveCfg = Debug|x86
+		{CEBC603C-9904-42EC-B85C-E4108AC11ABA}.Debug|x86.Build.0 = Debug|x86
+		{CEBC603C-9904-42EC-B85C-E4108AC11ABA}.Release|x86.ActiveCfg = Release|x86
+		{CEBC603C-9904-42EC-B85C-E4108AC11ABA}.Release|x86.Build.0 = Release|x86
+		{90DDEC63-031D-455C-850B-70C34DE8B02D}.Debug|x86.ActiveCfg = Debug|x86
+		{90DDEC63-031D-455C-850B-70C34DE8B02D}.Debug|x86.Build.0 = Debug|x86
+		{90DDEC63-031D-455C-850B-70C34DE8B02D}.Release|x86.ActiveCfg = Release|x86
+		{90DDEC63-031D-455C-850B-70C34DE8B02D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

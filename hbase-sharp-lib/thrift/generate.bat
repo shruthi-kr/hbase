@@ -1,0 +1,1 @@
+C:\projects\experimental\hadoop\thrift-0.6.1.exe -o . --gen csharp Hbase.thrift
